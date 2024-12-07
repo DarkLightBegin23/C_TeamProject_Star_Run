@@ -1,0 +1,19 @@
+﻿  1205.c
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(193,65): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(207,13): warning C4013: 'fabs'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(192,29): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(223,25): warning C4244: '함수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(342,17): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(361,29): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(384,23): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(309,34): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(310,19): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(337,46): warning C4244: '초기화 중': 'double'에서 'time_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(481,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(607,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(740,39): warning C4244: '=': 'double'에서 'time_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(765,30): warning C4244: '함수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(895,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(1029,11): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\C프로그래밍 프로젝트_게임\C프로그래밍 프로젝트_게임\1205.c(1421,1): warning C4716: 'storyPrint': 값을 반환해야 합니다.
+  20241205_스타런.vcxproj -> C:\Users\KIMHANJAE2\Desktop\과제\C프로그래밍\팀 프로젝트\20241205_스타런\x64\Debug\20241205_스타런.exe
